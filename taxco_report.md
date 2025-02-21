@@ -17,10 +17,10 @@ draft: true
 | bb-25 | Beheerproces | Beschikbaarstellen software | 🏳️ | ⛔️ | ⛔️ |
 | ii-18 | Implementatieproces | Inrichten ontwikkelomgeving | 🏳️ | ⛔️ | ⛔️ |
 | ta-6 | Testproces | Adviseren testproces | 🏳️ | ⛔️ | ⛔️ |
-| tu-4 | Beheerproces | Uitvoeren test | 🏳️ | ⛔️ | ⛔️ |
+| tu-4 | Beheerproces | Uitvoeren test | 🏳️ | ✅ | ✅ |
 | rs-10 | Requirementsanalyseproces | Specifieren requirements | 🏳️ | ⛔️ | ⛔️ |
-| bm-22 | Beheerproces | Managen ontwikkelproces | 🏳️ | ⛔️ | ⛔️ |
-| ra-9 | Requirementsanalyseproces | Analyseren requirements | 🏳️ | ⛔️ | ⛔️ |
+| bm-22 | Beheerproces | Managen ontwikkelproces | 🏳️ | ✅ | ✅ |
+| ra-9 | Requirementsanalyseproces | Analyseren requirements | 🏳️ | ✅ | ✅ |
 | rd-7 | Requirementsanalyseproces | Definiëren probleemdomein | 🏳️ | ⛔️ | ⛔️ |
 | rb-12 | Requirementsanalyseproces | Beheren requirements | 🏳️ | ⛔️ | ⛔️ |
 
@@ -74,10 +74,10 @@ Bij kolom *TC2*, *Leertaken*, *Ondersteunende informatie*, *Procedurele informat
 | IDE-setup-en-build | ii-18 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ 🏳️ | 🏳️ ⛔️ 🏳️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Acitviteitendiagram | oo-15 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
 | Teststrategie | ta-6 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
-| Functioneel-Testen | tu-4 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
+| Functioneel-Testen | tu-4 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Use-Case-Diagram | rs-10 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
-| Product-Backlog | bm-22 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
-| Domein-Analyse | ra-9 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
+| Product-Backlog | bm-22 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
+| Domein-Analyse | ra-9 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Multidimensionale-Array | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Commitment | rd-7 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Scrum-Events | rb-12 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
