@@ -115,8 +115,8 @@ Bij kolom *TC2*, *Leertaken*, *Ondersteunende informatie*, *Procedurele informat
 | MAUI | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
 | Events-Delegates | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
 | Code-review | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
-| LINQ-query-syntax | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
+| LINQ-query-syntax | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
 | Anonymous-object | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
-| LINQ-method-syntax | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
+| LINQ-method-syntax | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
 | Let-en-anonieme-typen | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
 | Lambda-expressies | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
