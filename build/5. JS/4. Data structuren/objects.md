@@ -1,10 +1,10 @@
 ---
 title: objects
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/objecten
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1 JavaScript objecten

@@ -1,11 +1,9 @@
 ---
 title: index
-taxonomie: []
+taxonomie: None
 tags:
 
-ignore: true 
+draft: true 
 ---
 
 Welkom!
-
-De workshops van security zijn te vinden in de map security

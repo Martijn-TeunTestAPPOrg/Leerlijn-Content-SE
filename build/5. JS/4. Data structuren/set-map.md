@@ -1,10 +1,10 @@
 ---
 title: set-map
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/set-map
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1 JavaScript `Set` en `Map`

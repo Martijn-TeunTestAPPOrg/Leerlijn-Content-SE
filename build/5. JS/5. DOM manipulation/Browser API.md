@@ -1,10 +1,10 @@
 ---
 title: Browser API
-taxonomie: []
+taxonomie: None
 tags:
-
+- HTML/BOM
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1. Browser Object Model (BOM)

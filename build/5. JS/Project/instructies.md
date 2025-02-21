@@ -1,10 +1,10 @@
 ---
 title: instructies
-taxonomie: []
+taxonomie: None
 tags:
-
+- Project
 difficulty: 3
-ignore: true 
+draft: true 
 ---
 
 # 1. JavaScript Project

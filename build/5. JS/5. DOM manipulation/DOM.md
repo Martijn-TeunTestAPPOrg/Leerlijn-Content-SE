@@ -1,10 +1,10 @@
 ---
 title: DOM
-taxonomie: []
+taxonomie: None
 tags:
-
+- HTML/DOM
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1. Het Document Object Model (DOM)

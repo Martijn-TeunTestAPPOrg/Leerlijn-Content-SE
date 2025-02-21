@@ -1,10 +1,10 @@
 ---
 title: Events
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/Events
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1. JavaScript Evenementen (Events)

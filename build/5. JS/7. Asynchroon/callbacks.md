@@ -1,10 +1,10 @@
 ---
 title: callbacks
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/Callbacks
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1 JavaScript Callbacks

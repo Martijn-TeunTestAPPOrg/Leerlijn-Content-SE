@@ -1,13 +1,10 @@
 ---
 title: Fetch API
-taxonomie: []
+taxonomie: None
 tags:
 
-difficulty: 4
-ignore: true 
----
-
-### Fetch API
+draft: true 
+---### Fetch API
 De **Fetch API** biedt een eenvoudige en krachtige manier om HTTP-aanvragen te doen. **Async/await** maakt het werken met asynchrone operaties intuïtiever door de code er synchrone uit te laten zien. Dit verhoogt de leesbaarheid en vereenvoudigt de foutafhandeling.
 
 **GET**

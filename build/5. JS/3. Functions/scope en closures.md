@@ -1,10 +1,10 @@
 ---
 title: scope en closures
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/scope-closures
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1 JavaScript scope en closures

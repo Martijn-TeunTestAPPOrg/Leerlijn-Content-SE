@@ -1,10 +1,10 @@
 ---
 title: functions
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/functions
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1. JavaScript functions

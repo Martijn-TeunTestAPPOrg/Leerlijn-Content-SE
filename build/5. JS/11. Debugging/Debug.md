@@ -1,10 +1,11 @@
 ---
 title: Debug
-taxonomie: []
+taxonomie: None
 tags:
-
+- JS/debugging
+- page
 difficulty: 2
-ignore: true 
+draft: true 
 ---
 
 # 1. JavaScript Debugging
