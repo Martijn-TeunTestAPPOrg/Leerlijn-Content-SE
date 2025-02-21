@@ -1,9 +1,6 @@
 ---
 title: Handleiding Microsoft Threat Modeling Tool
 ignore: true
-tags: 
-- security-workshops
-- threat-modeling
 ---
 
 ## Stap 1. Downloaden
