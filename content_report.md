@@ -51,7 +51,6 @@ Deze todo items moeten nog worden afgehandeld.
 | ❌ | 1. Definiëren probleemdomein | 2. Processen/1. Requirementsanalyseproces/1. Definiëren probleemdomein.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Inrichten ontwikkelomgeving | 2. Processen/4. Implementatieproces/1. Inrichten ontwikkelomgeving.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Opstellen teststrategie | 2. Processen/5. Testproces/1. Opstellen teststrategie.md | N/A | N/A | Geen taxco gevonden |
-| ❌ | 1. Pointers | 10. C++/Pointers/1. Pointers.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Threat Modeling | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/1. Opstellen TO/1. Threat Modeling.md | None | N/A | Geen taxco gevonden |
 | ❌ | 1. Uitleg logische operatoren | 3. Algoritmiek/1. Uitleg logische operatoren.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Uitvoeren analyse | 2. Processen/2. Pakketselectieproces/1. Uitvoeren analyse.md | N/A | N/A | Geen taxco gevonden |
