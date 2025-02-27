@@ -51,8 +51,6 @@ Deze todo items moeten nog worden afgehandeld.
 | ❌ | 1. Definiëren probleemdomein | 2. Processen/1. Requirementsanalyseproces/1. Definiëren probleemdomein.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Inrichten ontwikkelomgeving | 2. Processen/4. Implementatieproces/1. Inrichten ontwikkelomgeving.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Opstellen teststrategie | 2. Processen/5. Testproces/1. Opstellen teststrategie.md | N/A | N/A | Geen taxco gevonden |
-| ⚠️ | 1. Pointers | 10. C++/1. Pointers.md | bg-24.2.C++.OI<br>bg-24.3.C++.OI | N/A | Dynamische link fout:  `[[10. C++/2. Uitleg/2. Pointer Arithmetic\|2. Pointer Arithmetic]]`<br>Taxco niet in dataset:  `bg-24.2.C++.OI` |
-| ❌ | 1. Requirements | 1. Requirements.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Threat Modeling | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/1. Opstellen TO/1. Threat Modeling.md | None | N/A | Geen taxco gevonden |
 | ❌ | 1. Uitleg logische operatoren | 3. Algoritmiek/1. Uitleg logische operatoren.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Uitvoeren analyse | 2. Processen/2. Pakketselectieproces/1. Uitvoeren analyse.md | N/A | N/A | Geen taxco gevonden |
@@ -85,7 +83,6 @@ Deze todo items moeten nog worden afgehandeld.
 | ❌ | 6. Uitvoeren configuratie-, change- en releasemangement | 2. Processen/6. Beheerproces/6. Uitvoeren configuratie-, change- en releasemangement.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | index | 5. JS/index.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | keepme | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/2. Opstellen FO/keepme.md | N/A | N/A | Geen taxco gevonden |
-| ❌ | taxco_report | taxco_report.md | N/A | N/A | Geen taxco gevonden |
 
 
 ## Gefaalde images
@@ -155,7 +152,6 @@ Deze todo items moeten nog worden afgehandeld.
 | ⚠️ | arrays | 5. JS/4. Data structuren/arrays.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | callbacks | 5. JS/7. Asynchroon/callbacks.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | functions | 5. JS/3. Functions/functions.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
-| ⚠️ | index | index.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | instructies | 5. JS/Project/instructies.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | objects | 5. JS/4. Data structuren/objects.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | promises | 5. JS/7. Asynchroon/promises.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
