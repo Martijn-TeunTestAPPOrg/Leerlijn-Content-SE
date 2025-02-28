@@ -51,35 +51,43 @@ Deze todo items moeten nog worden afgehandeld.
 | ❌ | 1. Definiëren probleemdomein | 2. Processen/1. Requirementsanalyseproces/1. Definiëren probleemdomein.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Inrichten ontwikkelomgeving | 2. Processen/4. Implementatieproces/1. Inrichten ontwikkelomgeving.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Opstellen teststrategie | 2. Processen/5. Testproces/1. Opstellen teststrategie.md | N/A | N/A | Geen taxco gevonden |
+| ❌ | 1. Requirements | 1. SSDLC/1. Requirements.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Threat Modeling | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/1. Opstellen TO/1. Threat Modeling.md | None | N/A | Geen taxco gevonden |
+| ⚠️ | 1. Uitleg Forken | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat/1. Uitleg Forken.md | bb-23.2.Forken.OI | N/A | Taxco niet in dataset:  `bb-23.2.Forken.OI` |
+| ⚠️ | 1. Uitleg Mergen features | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/1. Uitleg Mergen features.md | bg-24.2.Git-Mergen.OI<br>bg-24.3.Git-Mergen.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Mergen | Dynamische link fout:  `[[2. Stappen Mergen features]]` |
 | ❌ | 1. Uitleg logische operatoren | 3. Algoritmiek/1. Uitleg logische operatoren.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 1. Uitvoeren analyse | 2. Processen/2. Pakketselectieproces/1. Uitvoeren analyse.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Adviseren onderdeelselectie | 2. Processen/2. Pakketselectieproces/2. Adviseren onderdeelselectie.md | N/A | N/A | Geen taxco gevonden |
-| ❌ | 2. Beheren ontwikkelstraat | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Bouwen softwaresysteem | 2. Processen/4. Implementatieproces/2. Bouwen softwaresysteem.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Design | 1. SSDLC/2. Design.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Opstellen testontwerp | 2. Processen/5. Testproces/2. Opstellen testontwerp.md | N/A | N/A | Geen taxco gevonden |
+| ⚠️ | 2. Stappen Forken | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat/2. Stappen Forken.md | bb-23.2.Forken.PI | N/A | Taxco niet in dataset:  `bb-23.2.Forken.PI` |
 | ❌ | 2. Vaststellen kwaliteit | 2. Processen/3. Ontwerpproces/2. Vaststellen kwaliteit.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Verzamelen requirements | 2. Processen/1. Requirementsanalyseproces/2. Verzamelen requirements.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 2. Wat is een Threat Model | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/1. Opstellen TO/2. Wat is een Threat Model.md | None | N/A | Geen taxco gevonden |
 | ❌ | 3. Adviseren architectuur | 2. Processen/3. Ontwerpproces/3. Adviseren architectuur.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 3. Development | 1. SSDLC/3. Development.md | N/A | N/A | Geen taxco gevonden |
-| ❌ | 3. Gebruiken beheersysteem | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 3. Opstellen test | 2. Processen/5. Testproces/3. Opstellen test.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 3. Refactoren applicatie | 2. Processen/4. Implementatieproces/3. Refactoren applicatie.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 3. Threat Model naar mitigatie | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/1. Opstellen TO/3. Threat Model naar mitigatie.md | None | N/A | Geen taxco gevonden |
+| ⚠️ | 3. Uitleg Pull requests | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/3. Uitleg Pull requests.md | bg-24.2.Git-Pull-requests.OI<br>bg-24.3.Git-Pull-requests.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Pull-requests | Dynamische link fout:  `[[3. Stappen Pull requests\|Stappen pull requests]]` |
+| ⚠️ | 3. Uitleg testen in pipeline | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat/3. Uitleg testen in pipeline.md | bb-23.2.Pipelin-testen.OI | N/A | Taxco niet in dataset:  `bb-23.2.Pipelin-testen.OI` |
 | ❌ | 4. Beredeneren bouwkeuzes | 2. Processen/4. Implementatieproces/4. Beredeneren bouwkeuzes.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 4. Beschikbaarstellen software | 2. Processen/6. Beheerproces/4. Beschikbaarstellen software.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 4. Specifieren requirements | 2. Processen/1. Requirementsanalyseproces/4. Specifieren requirements.md | N/A | N/A | Geen taxco gevonden |
+| ⚠️ | 4. Stappen testen in pipeline | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat/4. Stappen testen in pipeline.md | bb-23.2.Testen-In-Pipeline.PI | N/A | Dynamische link fout:  `[[1. Uitleg testen in pipeline\| Uitleg testen in pipeline]]`<br>Taxco niet in dataset:  `bb-23.2.Testen-In-Pipeline.PI` |
 | ❌ | 4. Testing | 1. SSDLC/4. Testing.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 4. Uitvoeren test | 2. Processen/5. Testproces/4. Uitvoeren test.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 5. Deployment | 1. SSDLC/5. Deployment.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 5. Evalueren ontwikkelstraat | 2. Processen/6. Beheerproces/5. Evalueren ontwikkelstraat.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 5. Evalueren test | 2. Processen/5. Testproces/5. Evalueren test.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 5. Oplossen fouten | 2. Processen/4. Implementatieproces/5. Oplossen fouten.md | N/A | N/A | Geen taxco gevonden |
+| ⚠️ | 5. Uitleg .gitignore | 2. Processen/6. Beheerproces/2. Beheren ontwikkelstraat/5. Uitleg .gitignore.md | bb-23.2.Gitignore.OI | N/A | Taxco niet in dataset:  `bb-23.2.Gitignore.OI` |
+| ⚠️ | 5. Uitleg Release maken | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/5. Uitleg Release maken.md | bg-24.2.Git-Release-maken.OI | N/A | Taxco niet in dataset:  `bg-24.2.Git-Release-maken.OI` |
 | ❌ | 5. Valideren requirements | 2. Processen/1. Requirementsanalyseproces/5. Valideren requirements.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 6. Adviseren testproces | 2. Processen/5. Testproces/6. Adviseren testproces.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | 6. Beheren requirements | 2. Processen/1. Requirementsanalyseproces/6. Beheren requirements.md | N/A | N/A | Geen taxco gevonden |
+| ⚠️ | 6. Stappen Release maken | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/6. Stappen Release maken.md | bg-24.2.Git-Release-maken.PI | N/A | Taxco niet in dataset:  `bg-24.2.Git-Release-maken.PI` |
 | ❌ | 6. Uitvoeren configuratie-, change- en releasemangement | 2. Processen/6. Beheerproces/6. Uitvoeren configuratie-, change- en releasemangement.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | index | 5. JS/index.md | N/A | N/A | Geen taxco gevonden |
 | ❌ | keepme | 2. Processen/3. Ontwerpproces/1. Opstellen ontwerp/2. Opstellen FO/keepme.md | N/A | N/A | Geen taxco gevonden |
@@ -152,6 +160,7 @@ Deze todo items moeten nog worden afgehandeld.
 | ⚠️ | arrays | 5. JS/4. Data structuren/arrays.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | callbacks | 5. JS/7. Asynchroon/callbacks.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | functions | 5. JS/3. Functions/functions.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
+| ⚠️ | index | index.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | instructies | 5. JS/Project/instructies.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | objects | 5. JS/4. Data structuren/objects.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
 | ⚠️ | promises | 5. JS/7. Asynchroon/promises.md | N/A | N/A | Bestand wordt genegeerd door ignore tag |
@@ -164,8 +173,8 @@ Deze todo items moeten nog worden afgehandeld.
 
 | Status | File | Path | Taxonomie | Tags | Errors |
 | --- | --- | --- | --- | --- | --- |
-| ✅ | 1. Introductie Git | 7. Git/2. Workshop/1. Introductie Git.md | bg-24.2.Git.OI<br>bg-24.3.Git.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git<br>git-workshop<br>security-workshops | N/A |
 | ✅ | 1. Introductie Git | 7. Git/1. Uitleg/1. Introductie Git.md | bg-24.2.Git.OI<br>bg-24.3.Git.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git | N/A |
+| ✅ | 1. Introductie Git | 7. Git/2. Workshop/1. Introductie Git.md | bg-24.2.Git.OI<br>bg-24.3.Git.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git<br>git-workshop<br>security-workshops | N/A |
 | ✅ | 1. Uitleg Boolean | 4. Csharp/Datatypen/Primitieve datatypen/Boolean/1. Uitleg Boolean.md | ib-19.2.Boolean.OI<br>ib-19.3.Boolean.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Boolean<br>Bouwen softwaresysteem<br>Implementatieproces | N/A |
 | ✅ | 1. Uitleg Break | 4. Csharp/Controle-structuren/Break/1. Uitleg Break.md | ib-19.2.Break.OI<br>ib-19.3.Break.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Break<br>Implementatieproces | N/A |
 | ✅ | 1. Uitleg Byte | 4. Csharp/Datatypen/Primitieve datatypen/Byte/1. Uitleg Byte.md | ib-19.2.Byte.OI<br>ib-19.3.Byte.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Byte<br>Implementatieproces | N/A |
@@ -195,8 +204,8 @@ Deze todo items moeten nog worden afgehandeld.
 | ✅ | 1. Uitleg Unsigned Long | 4. Csharp/Datatypen/Primitieve datatypen/Unsigned Long/1. Uitleg Unsigned Long.md | ib-19.2.ULong.OI<br>ib-19.3.ULong.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>ULong | N/A |
 | ✅ | 1. Uitleg While | 4. Csharp/Controle-structuren/While/1. Uitleg While.md | ib-19.2.While.OI<br>ib-19.3.While.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>While | N/A |
 | ✅ | 10. GitHub website | 7. Git/1. Uitleg/10. GitHub website.md | bg-24.2.Git-GitHub.OI<br>bg-24.3.Git-GitHub.OI<br>bg-24.2.Git-Tags-en-releases.OI<br>bg-24.3.Git-Tags-en-releases.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-GitHub<br>Git-Tags-en-releases | N/A |
-| ✅ | 2. Git Repositories | 7. Git/2. Workshop/2. Git Repositories.md | bg-24.2.Git-Repositories.PI<br>bg-24.3.Git-Repositories.PI<br>bg-24.2.Git-Commits.PI<br>bg-24.3.Git-Commits.PI<br>bg-24.2.Git-Files.PI<br>bg-24.3.Git-Files.PI<br>bg-24.2.Git-Tools.PI<br>bg-24.3.Git-Tools.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Commits<br>Git-Files<br>Git-Repositories<br>Git-Tools<br>git-workshop<br>security-workshops | N/A |
 | ✅ | 2. Git Repositories | 7. Git/1. Uitleg/2. Git Repositories.md | bg-24.2.Git-Repositories.OI<br>bg-24.3.Git-Repositories.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Repositories | N/A |
+| ✅ | 2. Git Repositories | 7. Git/2. Workshop/2. Git Repositories.md | bg-24.2.Git-Repositories.PI<br>bg-24.3.Git-Repositories.PI<br>bg-24.2.Git-Commits.PI<br>bg-24.3.Git-Commits.PI<br>bg-24.2.Git-Files.PI<br>bg-24.3.Git-Files.PI<br>bg-24.2.Git-Tools.PI<br>bg-24.3.Git-Tools.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Commits<br>Git-Files<br>Git-Repositories<br>Git-Tools<br>git-workshop<br>security-workshops | N/A |
 | ✅ | 2. Oefeningen Boolean | 4. Csharp/Datatypen/Primitieve datatypen/Boolean/2. Oefeningen Boolean.md | ib-19.2.Boolean.DT<br>ib-19.3.Boolean.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Boolean<br>Bouwen softwaresysteem<br>Implementatieproces | N/A |
 | ✅ | 2. Oefeningen Byte | 4. Csharp/Datatypen/Primitieve datatypen/Byte/2. Oefeningen Byte.md | ib-19.2.Byte.DT<br>ib-19.3.Byte.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Byte<br>Implementatieproces | N/A |
 | ✅ | 2. Oefeningen Char | 4. Csharp/Datatypen/Primitieve datatypen/Char/2. Oefeningen Char.md | ib-19.2.Char.DT<br>ib-19.3.Char.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Char<br>Implementatieproces | N/A |
@@ -216,6 +225,7 @@ Deze todo items moeten nog worden afgehandeld.
 | ✅ | 2. Oefeningen Unsigned Integer | 4. Csharp/Datatypen/Primitieve datatypen/Unsigned Integer/2. Oefeningen Unsigned Integer.md | ib-19.2.Uint.DT<br>ib-19.3.Uint.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>Uint | N/A |
 | ✅ | 2. Oefeningen Unsigned Long | 4. Csharp/Datatypen/Primitieve datatypen/Unsigned Long/2. Oefeningen Unsigned Long.md | ib-19.2.ULong.DT<br>ib-19.3.ULong.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>ULong | N/A |
 | ✅ | 2. Stappen If-Else | 4. Csharp/Controle-structuren/If-Else/2. Stappen If-Else.md | ib-19.2.If-Else.PI<br>ib-19.3.If-Else.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>If-Else<br>Implementatieproces | N/A |
+| ✅ | 2. Stappen Mergen fetaures | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/2. Stappen Mergen fetaures.md | bg-24.2.Git-Mergen.PI<br>bg-24.3.Git-Mergen.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Mergen | N/A |
 | ✅ | 2. Stappen Stack | 4. Csharp/Datastructuren/Stack/2. Stappen Stack.md | ib-19.2.Stack.PI<br>ib-19.3.Stack.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>Stack | N/A |
 | ✅ | 2. Stappen While | 4. Csharp/Controle-structuren/While/2. Stappen While.md | ib-19.2.While.PI<br>ib-19.3.While.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>While | N/A |
 | ✅ | 3. Git Branches | 7. Git/1. Uitleg/3. Git Branches.md | bg-24.2.Git-Branches.OI<br>bg-24.3.Git-Branches.OI<br>bg-24.2.Git-Flow.OI<br>bg-24.3.Git-Flow.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Branches<br>Git-Flow | N/A |
@@ -230,6 +240,7 @@ Deze todo items moeten nog worden afgehandeld.
 | ✅ | 4. Oefeningen Constructor Chaining | 4. Csharp/Datatypen/Objecten/Constructor/4. Oefeningen Constructor Chaining.md | ib-19.2.Constructors.DT<br>ib-19.3.Constructors.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Constructors<br>Implementatieproces | N/A |
 | ✅ | 4. Oefeningen LINQ-method-syntax | 4. Csharp/LINQ/4. Oefeningen LINQ-method-syntax.md | ib-19.2.LINQ-query-syntax.DT<br>ib-19.3.LINQ-query-syntax.DT<br>ib-19.2.LINQ-method-syntax.DT<br>ib-19.3.LINQ-method-syntax.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>LINQ-method-syntax<br>LINQ-query-syntax | N/A |
 | ✅ | 4. Oefeningen Method Overloading | 4. Csharp/Datatypen/Objecten/Methodes/4. Oefeningen Method Overloading.md | ib-19.2.Methods.DT<br>ib-19.3.Methods.DT | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Bouwen softwaresysteem<br>Implementatieproces<br>Methods | N/A |
+| ✅ | 4. Stappen Pull requests | 2. Processen/6. Beheerproces/3. Gebruiken beheersysteem/4. Stappen Pull requests.md | bg-24.2.Git-Pull-requests.PI | HBO-i/niveau-2<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Pull-requests | N/A |
 | ✅ | 5. Git Mergen | 7. Git/1. Uitleg/5. Git Mergen.md | bg-24.2.Git-Mergen.OI<br>bg-24.3.Git-Mergen.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Mergen | N/A |
 | ✅ | 5. Git Tags & Releases | 7. Git/2. Workshop/5. Git Tags & Releases.md | bg-24.2.Git-Tags-en-releases.PI<br>bg-24.3.Git-Tags-en-releases.PI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Tags-en-releases | N/A |
 | ✅ | 6. Git Pull requests | 7. Git/1. Uitleg/6. Git Pull requests.md | bg-24.2.Git-Pull-requests.OI<br>bg-24.3.Git-Pull-requests.OI | HBO-i/niveau-2<br>HBO-i/niveau-3<br>Beheerproces<br>Gebruiken beheersysteem<br>Git-Pull-requests | N/A |
