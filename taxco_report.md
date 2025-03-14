@@ -23,6 +23,7 @@ draft: true
 | ra-9 | Requirementsanalyseproces | Analyseren requirements | 🏳️ | ✅ | ✅ |
 | rd-7 | Requirementsanalyseproces | Definiëren probleemdomein | 🏳️ | ⛔️ | ⛔️ |
 | rb-12 | Requirementsanalyseproces | Beheren requirements | 🏳️ | ⛔️ | ⛔️ |
+| bb-23 | Beheerproces | Beheren ontwikkelstraat | 🏳️ | ⛔️ | ⛔️ |
 
 
 ## Rapport 2 - Onderwerpen Catalogus
@@ -120,3 +121,5 @@ Bij kolom *TC2*, *Leertaken*, *Ondersteunende informatie*, *Procedurele informat
 | LINQ-method-syntax | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
 | Let-en-anonieme-typen | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ |
 | Lambda-expressies | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
+| Pipeline-Testen | bb-23 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
+| Branching-Strategieën | bg-24 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
