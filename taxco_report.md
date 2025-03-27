@@ -24,6 +24,7 @@ draft: true
 | rd-7 | Requirementsanalyseproces | Definiëren probleemdomein | 🏳️ | ⛔️ | ⛔️ |
 | rb-12 | Requirementsanalyseproces | Beheren requirements | 🏳️ | ⛔️ | ⛔️ |
 | bb-23 | Beheerproces | Beheren ontwikkelstraat | 🏳️ | ⛔️ | ⛔️ |
+| to-1 | Testproces | Opstellen teststrategie | 🏳️ | ⛔️ | 🏳️ |
 
 
 ## Rapport 2 - Onderwerpen Catalogus
@@ -75,6 +76,7 @@ Bij kolom *TC2*, *Leertaken*, *Ondersteunende informatie*, *Procedurele informat
 | IDE-setup-en-build | ii-18 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ 🏳️ | 🏳️ ⛔️ 🏳️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Acitviteitendiagram | oo-15 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
 | Teststrategie | ta-6 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
+| Teststrategie | to-1 | 🏳️ ⛔️ 🏳️ | 🏳️ ⛔️ 🏳️ | 🏳️ ⛔️ 🏳️ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Functioneel-Testen | tu-4 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Use-Case-Diagram | rs-10 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
 | Product-Backlog | bm-22 | 🏳️ ✅ ✅ | 🏳️ ⛔️ ⛔️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ 🏳️ 🏳️ |
@@ -123,3 +125,4 @@ Bij kolom *TC2*, *Leertaken*, *Ondersteunende informatie*, *Procedurele informat
 | Lambda-expressies | ib-19 | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ | 🏳️ 🏳️ 🏳️ | 🏳️ ✅ ✅ |
 | Pipeline-Testen | bb-23 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
 | Branching-Strategieën | bg-24 | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ 🏳️ 🏳️ |
+| Docker | ib-19 | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ | 🏳️ ⛔️ ⛔️ |
